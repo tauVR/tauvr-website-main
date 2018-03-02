@@ -5,6 +5,34 @@ html {
   overflow-x: hidden;
 }
 
+#megrim{
+  font-family: 'Megrim', cursive;
+}
+
+#megrim-title{
+  font-family: 'Megrim', cursive;
+  font-size: 4.5em !important; 
+}
+
+#megrim-begin{
+  font-family: 'Megrim', cursive;
+  font-size: 3.5em !important; 
+}
+
+#megrim-end{
+  font-family: 'Megrim', cursive;
+  font-size: 1.8em !important; 
+}
+
+#megrim-top{
+  font-family: 'Megrim', cursive;
+  font-size: 3.2em !important; 
+}
+
+.megrim{
+  font-family: 'Megrim', cursive;
+}
+
 html, html a, body {
   -webkit-font-smoothing: antialiased;
 }
